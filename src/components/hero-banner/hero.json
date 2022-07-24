@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_hero_banner_heroes",
+  "info": {
+    "displayName": "hero"
+  },
+  "options": {},
+  "attributes": {
+    "title1": {
+      "type": "string"
+    },
+    "title2": {
+      "type": "string"
+    }
+  }
+}

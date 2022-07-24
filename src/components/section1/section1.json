@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section1_section1s",
+  "info": {
+    "displayName": "section1"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "feature": {
+      "type": "component",
+      "repeatable": true,
+      "component": "feature.features"
+    }
+  }
+}
