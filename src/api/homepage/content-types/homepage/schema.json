@@ -22,11 +22,6 @@
       "repeatable": false,
       "component": "section1.section1"
     },
-    "section2": {
-      "type": "component",
-      "repeatable": false,
-      "component": "section2.section2"
-    },
     "section3": {
       "type": "component",
       "repeatable": false,
@@ -36,6 +31,9 @@
       "type": "component",
       "repeatable": true,
       "component": "meta.metas"
+    },
+    "section2": {
+      "type": "richtext"
     }
   }
 }
